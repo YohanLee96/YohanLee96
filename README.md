@@ -11,13 +11,14 @@
 
 ### DevOps
 * MySQL, PostgreSQL, Redis
-* AWS &rightarrow; EC2, RDS, Elastic Cache, Route 53, S3
+* AWS &rightarrow; EC2, ECR, RDS, Elastic Cache, Route 53, S3, Code Deploy
 * Nginx, Tor
 * Jenkins, Git, Bitbucket, SVN
 
 ### Frontend
 * Javascript, ES6, jQuery
 * Datatables, toastUI Grid, Ajax
+* Bootstrap, Semantic UI
 
 
 <!--
