@@ -3,7 +3,7 @@
 
 ## 💪 Skills
 ### Backend
-* Java
+* Java, Kotlin
 * Spring Boot, Spring MVC, Spring Security, Spring Batch, Spring Data JPA/Redis, Spring Cloud AWS, Spring Retry
 * JPA/Hibernate, QueryDSL, mybatis
 * Gradle, Maven
@@ -11,7 +11,7 @@
 
 ### DevOps
 * MySQL, PostgreSQL, Redis
-* AWS &rightarrow; EC2, ECR, RDS, Elastic Cache, Route 53, S3, Code Deploy
+* AWS &rightarrow; EC2, ECR, ECS, Fargate, RDS, Elastic Cache, Route 53, S3, Code Deploy
 * Nginx, Tor
 * Jenkins, Git, Bitbucket, SVN
 
